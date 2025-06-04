@@ -1,6 +1,6 @@
 ## Project Overview
 This SQL project conducts an in-depth analysis of the top 50 most subscribed YouTube channels as of 2023, utilizing a dataset that includes metrics like subscriber counts, view numbers, video counts, channel categories, and more. The project aims to identify key factors driving success and popularity among these leading channels and includes a dynamic Tableau dashboard for an interactive visual exploration of the data.
-
+ 
 **Data Integrity and Structure**
 - **Objective**: Assess data completeness and structure to ensure robust analysis.
 - **Insight**: The data is complete with very few missing values in critical metrics such as views, indicating reliable data quality for analysis.
