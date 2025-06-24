@@ -13,7 +13,7 @@ This SQL project conducts an in-depth analysis of the top 50 most subscribed You
 - **Objective**: Compare video output and viewership across branded versus independent channels.
 - **Insight**: Branded channels generally have fewer videos but higher views per video, suggesting a quality-over-quantity strategy that resonates with large audiences.
 
-**Influence of Language and Geography**
+**Influence of Language and Geography** 
 - **Objective**: Evaluate how language and regional factors affect subscriber numbers and views.
 - **Insight**: English and Hindi are the predominant languages among the top 50 channels, reflecting a broader global and national audience reach. Channels in these languages tend to have higher average subscribers and views, underscoring the importance of language in content strategy.
 
